@@ -1,9 +1,9 @@
 # ACR2
 
 # General Overview:
-## This reports consists of two files: . 
-##ACR2GetReports.ipynb: Automatates report pulling from Diio, renames download, and covnerts to csv
-##ACR2Part2.ipynb: Analyzes downloaded csv files and produces SummaryDash.png and ACR Carrier Summary Tabs.xlsx
+## This reports consists of two files:  
+ACR2GetReports.ipynb: Automatates report pulling from Diio, renames download, and covnerts to csv
+CR2Part2.ipynb: Analyzes downloaded csv files and produces SummaryDash.png and ACR Carrier Summary Tabs.xlsx
 
 # Setup:
 #1. Download Jupyter Notebooks/Anaconda. 
